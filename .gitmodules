@@ -1,0 +1,15 @@
+[submodule "mattermost-plugin-profanity-filter"]
+	path = mattermost-plugin-profanity-filter
+	url = https://github.com/mattermost/mattermost-plugin-profanity-filter
+[submodule "mattermost-plugin-zoom"]
+	path = mattermost-plugin-zoom
+	url = https://github.com/mattermost/mattermost-plugin-zoom
+[submodule "mattermost-plugin-github"]
+	path = mattermost-plugin-github
+	url = https://github.com/mattermost/mattermost-plugin-github
+[submodule "mattermost-plugin-jira"]
+	path = mattermost-plugin-jira
+	url = https://github.com/mattermost/mattermost-plugin-jira
+[submodule "mattermost-plugin-memes"]
+	path = mattermost-plugin-memes
+	url = https://github.com/mattermost/mattermost-plugin-memes
