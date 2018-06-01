@@ -23,7 +23,7 @@ To add your plugin as an unofficial plugin:
   git submodule add https://github.com/mattermost/mattermost-plugin-profanity-filter.git Unofficial/mattermost-plugin-profanity-filter
   ```
 3. Commit the changes and push your branch.
-4. Submit a pull request to this repository with you branch.
+4. Submit a pull request to this repository with your branch.
 
 
 The process to get your plugin to production level is not yet determined.
