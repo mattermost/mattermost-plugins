@@ -9,11 +9,22 @@ This project hosts plugins built by Mattermost staff and community. They are cat
  - **Production**: Certified by the Mattermost team, and tested prior to each Mattermost server release.
  - **Unofficial**: Non-production plugins built by Mattermost staff and community.
 
-To add your plugin as an unofficial plugin to this repository run the following command.
+### Add your plugin
 
-```
-git submodule add https://github.com/mattermost/mattermost-plugin-profanity-filter.git Unofficial/mattermost-plugin-profanity-filter
-``` 
+To add your plugin as an unofficial plugin:
+
+1. Fork this repository and create a branch in your fork.
+2. On your branch run:
+  ```bash
+  git submodule add <repo-link> Unofficial/<repo-name>
+  ```
+  For example,
+  ```bash
+  git submodule add https://github.com/mattermost/mattermost-plugin-profanity-filter.git Unofficial/mattermost-plugin-profanity-filter
+  ```
+3. Commit the changes and push your branch.
+4. Submit a pull request to this repository with your branch.
+
 
 The process to get your plugin to production level is not yet determined.
 
