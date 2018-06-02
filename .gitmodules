@@ -13,3 +13,9 @@
 [submodule "mattermost-plugin-memes"]
 	path = Unofficial/mattermost-plugin-memes
 	url = https://github.com/mattermost/mattermost-plugin-memes
+[submodule "Unofficial/mattermost-plugin-kopanowebmeetings"]
+	path = Unofficial/mattermost-plugin-kopanowebmeetings
+	url = https://stash.kopano.io/scm/km/mattermost-plugin-kopanowebmeetings.git
+[submodule "Unofficial/mattermost-plugin-notifymatters"]
+	path = Unofficial/mattermost-plugin-notifymatters
+	url = https://fbartels@stash.kopano.io/scm/km/mattermost-plugin-notifymatters.git
