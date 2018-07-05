@@ -22,3 +22,6 @@
 [submodule "Unofficial/mattermost-plugin-autolink"]
 	path = Unofficial/mattermost-plugin-autolink
 	url = https://github.com/mattermost/mattermost-plugin-autolink.git
+[submodule "Unofficial/mattermost-plugin-gyazo"]
+	path = Unofficial/mattermost-plugin-gyazo
+	url = https://github.com/seansackowitz/mattermost-plugin-gyazo
