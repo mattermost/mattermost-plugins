@@ -25,3 +25,9 @@
 [submodule "Unofficial/mattermost-plugin-gyazo"]
 	path = Unofficial/mattermost-plugin-gyazo
 	url = https://github.com/seansackowitz/mattermost-plugin-gyazo
+[submodule "Unofficial/mattermost-plugin-dice-roller"]
+	path = Unofficial/mattermost-plugin-dice-roller
+	url = https://github.com/moussetc/mattermost-plugin-dice-roller.git
+[submodule "Unofficial/mattermost-plugin-jitsi"]
+	path = Unofficial/mattermost-plugin-jitsi
+	url = https://github.com/seansackowitz/mattermost-plugin-jitsi
