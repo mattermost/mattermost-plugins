@@ -31,3 +31,6 @@
 [submodule "Unofficial/mattermost-plugin-jitsi"]
 	path = Unofficial/mattermost-plugin-jitsi
 	url = https://github.com/seansackowitz/mattermost-plugin-jitsi
+[submodule "Unofficial/matterpoll"]
+	path = Unofficial/matterpoll
+	url = https://github.com/matterpoll/matterpoll.git
