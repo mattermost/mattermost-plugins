@@ -34,3 +34,9 @@
 [submodule "Unofficial/matterpoll"]
 	path = Unofficial/matterpoll
 	url = https://github.com/matterpoll/matterpoll.git
+[submodule "Examples/mattermost-plugin-sample"]
+	path = Examples/mattermost-plugin-sample
+	url = https://github.com/mattermost/mattermost-plugin-sample.git
+[submodule "Examples/mattermost-plugin-demo"]
+	path = Examples/mattermost-plugin-demo
+	url = https://github.com/mattermost/mattermost-plugin-demo.git
