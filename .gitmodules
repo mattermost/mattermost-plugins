@@ -40,3 +40,6 @@
 [submodule "Examples/mattermost-plugin-demo"]
 	path = Examples/mattermost-plugin-demo
 	url = https://github.com/mattermost/mattermost-plugin-demo.git
+[submodule "Unofficial/mattermost-plugin-welcomebot"]
+	path = Unofficial/mattermost-plugin-welcomebot
+	url = https://github.com/mattermost/mattermost-plugin-welcomebot
