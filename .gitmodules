@@ -43,3 +43,6 @@
 [submodule "Unofficial/mattermost-plugin-welcomebot"]
 	path = Unofficial/mattermost-plugin-welcomebot
 	url = https://github.com/mattermost/mattermost-plugin-welcomebot
+[submodule "Unofficial/mattermost-plugin-bigbluebutton"]
+	path = Unofficial/mattermost-plugin-bigbluebutton
+	url = https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton.git
