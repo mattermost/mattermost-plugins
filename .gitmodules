@@ -46,3 +46,6 @@
 [submodule "Unofficial/mattermost-plugin-bigbluebutton"]
 	path = Unofficial/mattermost-plugin-bigbluebutton
 	url = https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton.git
+[submodule "Unofficial/mattermost-plugin-autotranslate"]
+	path = Unofficial/mattermost-plugin-autotranslate
+	url = https://github.com/mattermost/mattermost-plugin-autotranslate.git
