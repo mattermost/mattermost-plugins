@@ -49,3 +49,6 @@
 [submodule "Unofficial/mattermost-plugin-autotranslate"]
 	path = Unofficial/mattermost-plugin-autotranslate
 	url = https://github.com/mattermost/mattermost-plugin-autotranslate.git
+[submodule "Unofficial/mattermost-plugin-xkcd"]
+	path = Unofficial/mattermost-plugin-xkcd
+	url = https://github.com/techunter/mattermost-xkcd-plugin.git
