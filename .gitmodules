@@ -52,3 +52,6 @@
 [submodule "Unofficial/mattermost-plugin-xkcd"]
 	path = Unofficial/mattermost-plugin-xkcd
 	url = https://github.com/techunter/mattermost-xkcd-plugin.git
+[submodule "Unofficial/mattermost-plugin-antivirus"]
+	path = Unofficial/mattermost-plugin-antivirus
+	url = https://github.com/mattermost/mattermost-plugin-antivirus.git
