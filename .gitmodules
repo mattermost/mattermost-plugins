@@ -55,3 +55,6 @@
 [submodule "Unofficial/mattermost-plugin-antivirus"]
 	path = Unofficial/mattermost-plugin-antivirus
 	url = https://github.com/mattermost/mattermost-plugin-antivirus.git
+[submodule "Unofficial/mattermost-plugin-walltime"]
+	path = Unofficial/mattermost-plugin-walltime
+	url = https://github.com/mattermost/mattermost-plugin-walltime.git
