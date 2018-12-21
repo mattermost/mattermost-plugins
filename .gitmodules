@@ -58,3 +58,6 @@
 [submodule "Unofficial/mattermost-plugin-walltime"]
 	path = Unofficial/mattermost-plugin-walltime
 	url = https://github.com/mattermost/mattermost-plugin-walltime.git
+[submodule "Unofficial/mattermost-plugin-spoiler"]
+	path = Unofficial/mattermost-plugin-spoiler
+	url = https://github.com/moussetc/mattermost-plugin-spoiler.git
