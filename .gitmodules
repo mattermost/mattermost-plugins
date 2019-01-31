@@ -61,3 +61,6 @@
 [submodule "Unofficial/mattermost-plugin-spoiler"]
 	path = Unofficial/mattermost-plugin-spoiler
 	url = https://github.com/moussetc/mattermost-plugin-spoiler.git
+[submodule "Unofficial/mattermost-plugin-draw"]
+	path = Unofficial/mattermost-plugin-draw
+	url = https://github.com/jespino/mattermost-plugin-draw.git
