@@ -1,6 +1,6 @@
-This file lists the available Mattermost plugins.
+This file lists available Mattermost plugins.
 
-To keep it Bot-parseable, only plugin listings can include `[]()` formatted URL references.
+To keep it Bot-parseable, plugin listings should include `[]()` formatted repository URL references.
 
 #### Examples
 - [mattermost-plugin-sample](https://github.com/mattermost/mattermost-plugin-sample.git)
