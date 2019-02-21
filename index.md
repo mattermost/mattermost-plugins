@@ -30,3 +30,5 @@ To keep it Bot-parseable, plugin listings should include `[]()` formatted reposi
 - [mattermost-plugin-xkcd](https://github.com/techunter/mattermost-xkcd-plugin)
 - [matterpoll](https://github.com/matterpoll/matterpoll)
 - [mailermost](https://github.com/DSchalla/mailermost-plugin)
+- [mattermost-plugin-botserver](https://github.com/cpanato/mattermost-plugin-botserver)
+- [mattermost-plugin-statuspage](https://github.com/cpanato/mattermost-plugin-statuspage)
