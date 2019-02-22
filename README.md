@@ -31,6 +31,7 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate)
 - [mattermost-plugin-bigbluebutton](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton)
 - [mattermost-plugin-botserver](https://github.com/cpanato/mattermost-plugin-botserver)
+- [mattermost-plugin-copy-post](https://github.com/jespino/mattermost-plugin-copy-post)
 - [mattermost-plugin-dice-roller](https://github.com/moussetc/mattermost-plugin-dice-roller)
 - [mattermost-plugin-draw](https://github.com/jespino/mattermost-plugin-draw)
 - [mattermost-plugin-github](https://github.com/mattermost/mattermost-plugin-github)
