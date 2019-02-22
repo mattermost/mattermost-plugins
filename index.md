@@ -15,6 +15,7 @@ To keep it Bot-parseable, plugin listings should include `[]()` formatted reposi
 - [mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink)
 - [mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate)
 - [mattermost-plugin-bigbluebutton](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton)
+- [mattermost-plugin-copy-post](https://github.com/jespino/mattermost-plugin-copy-post)
 - [mattermost-plugin-dice-roller](https://github.com/moussetc/mattermost-plugin-dice-roller)
 - [mattermost-plugin-draw](https://github.com/jespino/mattermost-plugin-draw)
 - [mattermost-plugin-github](https://github.com/mattermost/mattermost-plugin-github)
