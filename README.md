@@ -29,6 +29,7 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-antivirus](https://github.com/mattermost/mattermost-plugin-antivirus)
 - [mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink)
 - [mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate)
+- [mattermost-plugin-aws-sns](https://github.com/cpanato/mattermost-plugin-aws-SNS)
 - [mattermost-plugin-bigbluebutton](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton)
 - [mattermost-plugin-botserver](https://github.com/cpanato/mattermost-plugin-botserver)
 - [mattermost-plugin-copy-post](https://github.com/jespino/mattermost-plugin-copy-post)
