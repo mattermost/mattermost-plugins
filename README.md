@@ -26,6 +26,7 @@ Certified by the Mattermost team, and tested prior to each Mattermost server rel
 
 #### Unofficial
 Non-production plugins built by Mattermost staff and community.
+- [mattermost-plugin-analytics](https://github.com/manland/mattermost-plugin-analytics)
 - [mattermost-plugin-antivirus](https://github.com/mattermost/mattermost-plugin-antivirus)
 - [mattermost-plugin-autolink](https://github.com/mattermost/mattermost-plugin-autolink)
 - [mattermost-plugin-autotranslate](https://github.com/mattermost/mattermost-plugin-autotranslate)
