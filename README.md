@@ -46,6 +46,7 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-memes](https://github.com/mattermost/mattermost-plugin-memes)
 - [mattermost-plugin-notifymatters](https://github.com/Kopano-dev/mattermost-plugin-notifymatters)
 - [mattermost-plugin-profanity-filter](https://github.com/mattermost/mattermost-plugin-profanity-filter)
+- [mattermost-plugin-remind](https://github.com/scottleedavis/mattermost-plugin-remind)
 - [mattermost-plugin-spoiler](https://github.com/moussetc/mattermost-plugin-spoiler)
 - [mattermost-plugin-statuspage](https://github.com/cpanato/mattermost-plugin-statuspage)
 - [mattermost-plugin-tableflip](https://github.com/cmeadows/mattermost-plugin-tableflip)
