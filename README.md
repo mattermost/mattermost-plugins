@@ -48,6 +48,7 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-profanity-filter](https://github.com/mattermost/mattermost-plugin-profanity-filter)
 - [mattermost-plugin-spoiler](https://github.com/moussetc/mattermost-plugin-spoiler)
 - [mattermost-plugin-statuspage](https://github.com/cpanato/mattermost-plugin-statuspage)
+- [mattermost-plugin-spybot](https://github.com/scottleedavis/mattermost-plugin-spybot)
 - [mattermost-plugin-tableflip](https://github.com/cmeadows/mattermost-plugin-tableflip)
 - [mattermost-plugin-walltime](https://github.com/mattermost/mattermost-plugin-walltime)
 - [mattermost-plugin-welcomebot](https://github.com/mattermost/mattermost-plugin-welcomebot)
