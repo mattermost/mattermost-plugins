@@ -1,3 +1,9 @@
+## NOTE: THIS REPO IS REPLACED BY https://integrations.mattermost.com
+
+The original purpose of this repo was to provide a list of plugins built by Mattermost staff and community. This is now hosted in our [Integrations Directory](https://integrations.mattermost.com).
+
+You can search for plugins in the directory via [this link](https://integrations.mattermost.com/?s=plugin&submit=) and subscribe to notifications by joining our [Integrations community channel](https://community.mattermost.com/core/channels/integrations) where all new integration submissions are posted to.
+
 # mattermost-plugins
 
 Mattermost is an open source, self-hosted Slack-alternative https://mattermost.com.
